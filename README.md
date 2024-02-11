@@ -2,4 +2,4 @@
 
 Simple implementation of grep command in unix using RUST.
 
-helps us with searching patterns in files
+Features --> (recursive in dir and sub dir, case-sensitive, Higher performance and memory safety)
